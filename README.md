@@ -1,5 +1,5 @@
 # Be better
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-oop&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-oop&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor-oop&show_icons=true&theme=tokyonight)
 
 ## About me

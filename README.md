@@ -1,4 +1,4 @@
-# Hey
+# Be better
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-oop&hide=css,scss,html&theme=tokyonight)
 
 ## About me

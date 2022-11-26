@@ -3,7 +3,7 @@
 ## Python Web Developer
 ### Skills
  - Python
- - Django
+ - Django, DRF
  - SQL
  - Git
  - ReactJS

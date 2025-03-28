@@ -1,8 +1,12 @@
-## Hey! I'm Yegor Gulido (@Egor-oop) 👋
+## Hey! I'm Yegor Gulido👋
 
-I'm a software developer from Russia. 🇷🇺
+I'm a young and ambitious SWE
 
-I've been developing APIs for different kinds of tasks with Django Rest framework. Also, I create a frontend for my applications in JavaScript with React. 🚀
+Favorite languages and frameworks:
+- Python, TypeScript
+- FastAPI, Next.js, Django, Nest.js
 
-### Stats 📊
-![Yegor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor-oop&show_icons=true&theme=gruvbox)
+Interested in:
+- AI
+- Golang
+- How blockchain works

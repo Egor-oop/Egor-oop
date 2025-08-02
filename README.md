@@ -1,12 +1,11 @@
-## Hey! I'm Yegor Gulido👋
+## Hey! I'm Yegor Gulido 👋
 
-I'm a young and ambitious SWE
+I'm a young ambitious Software Engineer
 
-Favorite languages and frameworks:
-- Python, TypeScript
-- FastAPI, Next.js, Django, Nest.js
+Favorite languages and technologies:
+ - Python. FastAPI, Aiogram. Love its simpleness
+ - JavaScript. Express, Fastify, React. Wiredo :)
 
 Interested in:
 - AI
-- Golang
-- How blockchain works
+- Microcontroller programming
